@@ -1,0 +1,3 @@
+export const ADD_CREDITCARD = 'ADD_CREDITCARD'
+export const REMOVE_CREDITCARD = 'REMOVE_CREDITCARD'
+export const GET_USER = 'GET_USER'
